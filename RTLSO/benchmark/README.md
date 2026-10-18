@@ -8,7 +8,7 @@ Please note the following before compiling and running the code:
 
 2. The code can be compiled on Linux with C++17 support.
 
-3. The main parameter settings are defined in `Self_Define_Functions.h`. No additional parameter configuration is required for the supplied experiments. After compilation, run the generated executable from this directory.
+3. The main parameter settings are defined in `Header.h`. No additional parameter configuration is required for the supplied experiments. After compilation, run the generated executable from this directory.
 
 4. Extract `CEC2010.zip` before compilation. When compiling with a Makefile or an IDE, ensure that the CEC 2010 benchmark source files are included in the project.
 
