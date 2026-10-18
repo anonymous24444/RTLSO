@@ -1,0 +1,41 @@
+# Build products
+*.d
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exp
+*.ilk
+*.pdb
+*.gch
+*.pch
+
+# Experiment outputs
+**/resultsRTLSO/
+**/recordRTLSO/
+
+# Extracted inputs (the ZIP archives are included)
+/RTLSO/benchmark/CEC2010/
+/RTLSO/feature selection/dataset/
+
+# Editor files
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+*.user
+
+# Temporary and operating-system files
+*.bak
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
