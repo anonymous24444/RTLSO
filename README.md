@@ -4,7 +4,7 @@ This repository contains the anonymous review code for the relative tournament l
 
 **A Relative Tournament Learning Swarm Optimizer for High-Dimensional Optimization and Its Application to Feature Selection**
 
-To preserve anonymity during peer review, the source code is provided through this temporary repository; the official source code repository will be made publicly available upon acceptance of the paper.
+To preserve anonymity during peer review, the source code is provided through this temporary repository; if the paper is accepted, the official source code repository will be made publicly available.
 
 The `RTLSO/benchmark` and `RTLSO/feature selection` directories contain the benchmark and feature-selection implementations, respectively.
 
