@@ -1,4 +1,4 @@
-#include "Self_Define_Functions.h"
+#include "Header.h"
 
 #include <cuda_runtime.h>
 #include <cfloat>
